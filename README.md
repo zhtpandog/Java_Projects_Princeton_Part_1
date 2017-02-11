@@ -1,6 +1,8 @@
 # Projects_Princeton_Part_1
 Programming projects for Princeton Algorithms Part1
 
-dependence: algs4.jar
+Hardcore Java Programming big projects.
 
-detailed course info pls check its coursera website
+Dependence: algs4.jar
+
+Detailed course info pls check its coursera website
