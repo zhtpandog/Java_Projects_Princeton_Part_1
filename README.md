@@ -15,4 +15,4 @@ Project4 - 8 Puzzle: Artificial Intelligence A-star Algorithm for solving the 8-
 
 Project5 - Kd Trees: Write a data type to represent a set of points in the unit square (all points have x- and y-coordinates between 0 and 1) using a 2d-tree to support efficient range search (find all of the points contained in a query rectangle) and nearest neighbor search (find a closest point to a query point). Algorithms: Balanced Search Trees.
 
-Detailed course info pls check its coursera website
+Detailed course info pls check its coursera website: https://www.coursera.org/learn/algorithms-part1/home/welcome
